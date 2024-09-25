@@ -1,4 +1,4 @@
-              - name: Keepalive Workflow
+           name: Keepalive Workflow
                 uses: gautamkrishnar/keepalive-workflow@2.0.7
             
             name: Github Action with a cronjob trigger
