@@ -24,7 +24,7 @@ jobs:
           curl -o index.js https://raw.githubusercontent.com/ravgeetdhillon/notion-feeder/build/dist/index.js
           node index.js
 
-name: Github Action with a cronjob trigger
+#name: Github Action with a cronjob trigger
 on:
   schedule:
     - cron: "0 0 * * *"
