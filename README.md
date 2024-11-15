@@ -6,10 +6,7 @@
 
 ---
 
-If you love this product and value my time, consider [sending some love](https://paypal.me/ravgeetdhillon) to me. This will enable me to work on more projects like these in the future.
-
-[![PayPal Donate Button](https://images.squarespace-cdn.com/content/v1/55f62c4ce4b02545cc6ee94f/1558204823259-CQ0YNKZEHP7W5LO64PBU/paypal-donate-button-1.PNG?format=300w)](https://paypal.me/ravgeetdhillon)
-
+If you love
 ---
 
 # Notion Feeder
